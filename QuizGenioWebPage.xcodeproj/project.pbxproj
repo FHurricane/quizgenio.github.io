@@ -1,0 +1,109 @@
+// !$*UTF8*$!
+{
+	archiveVersion = 1;
+	classes = {
+	};
+	objectVersion = 77;
+	objects = {
+
+/* Begin PBXFileReference section */
+		E1C2CFD2300FBF7700AD16C9 /* index.html */ = {isa = PBXFileReference; lastKnownFileType = text.html; path = index.html; sourceTree = "<group>"; };
+		E1C2CFD3300FC1DC00AD16C9 /* Titolo.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = Titolo.png; sourceTree = "<group>"; };
+		E1C2CFD4300FC28E00AD16C9 /* IconiOS.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = IconiOS.png; sourceTree = "<group>"; };
+		E1C2CFD5300FC29300AD16C9 /* Einstein.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = Einstein.png; sourceTree = "<group>"; };
+		E1C2CFD6300FC50200AD16C9 /* 1.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = 1.png; sourceTree = "<group>"; };
+		E1C2CFD7300FC50200AD16C9 /* 2.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = 2.png; sourceTree = "<group>"; };
+		E1C2CFD8300FC50200AD16C9 /* 3.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = 3.png; sourceTree = "<group>"; };
+		E1C2CFD9300FC76B00AD16C9 /* Contatto.html */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Contatto.html; sourceTree = "<group>"; };
+		E1C2CFDA300FC78200AD16C9 /* Privacy.html */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Privacy.html; sourceTree = "<group>"; };
+		E1C2CFDB300FC79300AD16C9 /* screenshoot.html */ = {isa = PBXFileReference; lastKnownFileType = text.html; path = screenshoot.html; sourceTree = "<group>"; };
+		E1C2CFDC300FCBD600AD16C9 /* scr1.PNG */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = scr1.PNG; sourceTree = "<group>"; };
+		E1C2CFDD300FCBD600AD16C9 /* scr2.PNG */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = scr2.PNG; sourceTree = "<group>"; };
+		E1C2CFDE300FCBD600AD16C9 /* scr3.PNG */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = scr3.PNG; sourceTree = "<group>"; };
+		E1C2CFDF300FCBD600AD16C9 /* scr4.PNG */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = scr4.PNG; sourceTree = "<group>"; };
+		E1C2CFE0300FCBD600AD16C9 /* scr5.PNG */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = scr5.PNG; sourceTree = "<group>"; };
+		E1C2CFE1300FCD3800AD16C9 /* appstore.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = appstore.png; sourceTree = "<group>"; };
+		E1C2CFE2300FD0CF00AD16C9 /* intro sito.mp4 */ = {isa = PBXFileReference; lastKnownFileType = file; path = "intro sito.mp4"; sourceTree = "<group>"; };
+/* End PBXFileReference section */
+
+/* Begin PBXGroup section */
+		E1C2CFCB300FBF7100AD16C9 = {
+			isa = PBXGroup;
+			children = (
+				E1C2CFDB300FC79300AD16C9 /* screenshoot.html */,
+				E1C2CFDA300FC78200AD16C9 /* Privacy.html */,
+				E1C2CFD9300FC76B00AD16C9 /* Contatto.html */,
+				E1C2CFD2300FBF7700AD16C9 /* index.html */,
+				E1C2CFD3300FC1DC00AD16C9 /* Titolo.png */,
+				E1C2CFD4300FC28E00AD16C9 /* IconiOS.png */,
+				E1C2CFD5300FC29300AD16C9 /* Einstein.png */,
+				E1C2CFD6300FC50200AD16C9 /* 1.png */,
+				E1C2CFD7300FC50200AD16C9 /* 2.png */,
+				E1C2CFD8300FC50200AD16C9 /* 3.png */,
+				E1C2CFDC300FCBD600AD16C9 /* scr1.PNG */,
+				E1C2CFDD300FCBD600AD16C9 /* scr2.PNG */,
+				E1C2CFDE300FCBD600AD16C9 /* scr3.PNG */,
+				E1C2CFDF300FCBD600AD16C9 /* scr4.PNG */,
+				E1C2CFE0300FCBD600AD16C9 /* scr5.PNG */,
+				E1C2CFE1300FCD3800AD16C9 /* appstore.png */,
+				E1C2CFE2300FD0CF00AD16C9 /* intro sito.mp4 */,
+			);
+			sourceTree = "<group>";
+		};
+/* End PBXGroup section */
+
+/* Begin PBXProject section */
+		E1C2CFCC300FBF7100AD16C9 /* Project object */ = {
+			isa = PBXProject;
+			attributes = {
+				BuildIndependentTargetsInParallel = 1;
+				LastUpgradeCheck = 2660;
+			};
+			buildConfigurationList = E1C2CFCF300FBF7100AD16C9 /* Build configuration list for PBXProject "QuizGenioWebPage" */;
+			developmentRegion = en;
+			hasScannedForEncodings = 0;
+			knownRegions = (
+				en,
+				Base,
+			);
+			mainGroup = E1C2CFCB300FBF7100AD16C9;
+			minimizedProjectReferenceProxies = 1;
+			preferredProjectObjectVersion = 77;
+			projectDirPath = "";
+			projectRoot = "";
+			targets = (
+			);
+		};
+/* End PBXProject section */
+
+/* Begin XCBuildConfiguration section */
+		E1C2CFD0300FBF7100AD16C9 /* Debug */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				DEVELOPMENT_TEAM = 8L44WF97WK;
+			};
+			name = Debug;
+		};
+		E1C2CFD1300FBF7100AD16C9 /* Release */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				DEVELOPMENT_TEAM = 8L44WF97WK;
+			};
+			name = Release;
+		};
+/* End XCBuildConfiguration section */
+
+/* Begin XCConfigurationList section */
+		E1C2CFCF300FBF7100AD16C9 /* Build configuration list for PBXProject "QuizGenioWebPage" */ = {
+			isa = XCConfigurationList;
+			buildConfigurations = (
+				E1C2CFD0300FBF7100AD16C9 /* Debug */,
+				E1C2CFD1300FBF7100AD16C9 /* Release */,
+			);
+			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
+		};
+/* End XCConfigurationList section */
+	};
+	rootObject = E1C2CFCC300FBF7100AD16C9 /* Project object */;
+}
