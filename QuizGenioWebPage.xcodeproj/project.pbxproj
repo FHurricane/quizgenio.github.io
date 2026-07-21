@@ -1,0 +1,72 @@
+// !$*UTF8*$!
+{
+	archiveVersion = 1;
+	classes = {
+	};
+	objectVersion = 77;
+	objects = {
+
+/* Begin PBXGroup section */
+		E1C2CFCB300FBF7100AD16C9 = {
+			isa = PBXGroup;
+			children = (
+			);
+			sourceTree = "<group>";
+		};
+/* End PBXGroup section */
+
+/* Begin PBXProject section */
+		E1C2CFCC300FBF7100AD16C9 /* Project object */ = {
+			isa = PBXProject;
+			attributes = {
+				BuildIndependentTargetsInParallel = 1;
+				LastUpgradeCheck = 2660;
+			};
+			buildConfigurationList = E1C2CFCF300FBF7100AD16C9 /* Build configuration list for PBXProject "QuizGenioWebPage" */;
+			developmentRegion = en;
+			hasScannedForEncodings = 0;
+			knownRegions = (
+				en,
+				Base,
+			);
+			mainGroup = E1C2CFCB300FBF7100AD16C9;
+			minimizedProjectReferenceProxies = 1;
+			preferredProjectObjectVersion = 77;
+			projectDirPath = "";
+			projectRoot = "";
+			targets = (
+			);
+		};
+/* End PBXProject section */
+
+/* Begin XCBuildConfiguration section */
+		E1C2CFD0300FBF7100AD16C9 /* Debug */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				DEVELOPMENT_TEAM = 8L44WF97WK;
+			};
+			name = Debug;
+		};
+		E1C2CFD1300FBF7100AD16C9 /* Release */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				DEVELOPMENT_TEAM = 8L44WF97WK;
+			};
+			name = Release;
+		};
+/* End XCBuildConfiguration section */
+
+/* Begin XCConfigurationList section */
+		E1C2CFCF300FBF7100AD16C9 /* Build configuration list for PBXProject "QuizGenioWebPage" */ = {
+			isa = XCConfigurationList;
+			buildConfigurations = (
+				E1C2CFD0300FBF7100AD16C9 /* Debug */,
+				E1C2CFD1300FBF7100AD16C9 /* Release */,
+			);
+			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
+		};
+/* End XCConfigurationList section */
+	};
+	rootObject = E1C2CFCC300FBF7100AD16C9 /* Project object */;
+}
