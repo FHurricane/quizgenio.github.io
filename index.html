@@ -254,21 +254,31 @@
             box-shadow: 0 16px 34px rgba(23, 27, 43, 0.24);
         }
 
+        .release-grid {
+            display: grid;
+            grid-template-columns: repeat(2, minmax(0, 1fr));
+            gap: 18px;
+            width: min(760px, 100%);
+            margin: 0 auto 28px;
+        }
+
         .release-card {
             display: grid;
             justify-items: center;
+            align-content: center;
             gap: 12px;
-            width: min(520px, 100%);
-            margin: 0 auto 28px;
+            min-height: 170px;
             padding: 22px;
             border-radius: 26px;
             text-align: center;
         }
 
-        .appstore-image {
+        .store-image {
             display: block;
             width: min(210px, 70vw);
+            max-height: 72px;
             height: auto;
+            object-fit: contain;
             filter: drop-shadow(0 14px 24px rgba(30, 46, 76, 0.18));
         }
 
@@ -392,6 +402,11 @@
                 width: 100%;
             }
 
+            .release-grid {
+                grid-template-columns: 1fr;
+                width: 100%;
+            }
+
             .release-card,
             .footer {
                 width: 100%;
@@ -453,13 +468,19 @@
             </div>
         </section>
 
-        <section class="release-card glass" aria-label="Disponibilita su App Store">
-            <img class="appstore-image" src="appstore.png" alt="Disponibile su App Store">
-            <p>Rilascio Inizio Agosto 2026</p>
+        <section class="release-grid" aria-label="Disponibilita sugli store">
+            <div class="release-card glass">
+                <img class="store-image" src="appstore.png" alt="Disponibile su App Store">
+                <p>Rilascio Inizio Agosto 2026</p>
+            </div>
+            <div class="release-card glass">
+                <img class="store-image" src="googlestore.jpg" alt="Disponibile su Google Store">
+                <p>Rilascio Ottobre 2026</p>
+            </div>
         </section>
 
         <footer class="footer glass">
-            Costa Fabio Sviluppatore iOS - Copyright &copy; 2026 - Tutti i diritti sono riservati
+            Costa Fabio Sviluppatore iOS e Android - Copyright &copy; 2026 - Tutti i diritti sono riservati
         </footer>
     </main>
 
