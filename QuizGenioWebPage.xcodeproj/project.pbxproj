@@ -6,10 +6,34 @@
 	objectVersion = 77;
 	objects = {
 
+/* Begin PBXFileReference section */
+		E176AE1C3011E8A5001CDEBE /* campagna.html */ = {isa = PBXFileReference; lastKnownFileType = text.html; path = campagna.html; sourceTree = "<group>"; };
+		E176AE213011EA93001CDEBE /* README.md */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = README.md; sourceTree = "<group>"; };
+		E1C2CFD2300FBF7700AD16C9 /* index.html */ = {isa = PBXFileReference; lastKnownFileType = text.html; path = index.html; sourceTree = "<group>"; };
+		E1C2CFD9300FC76B00AD16C9 /* Contatto.html */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Contatto.html; sourceTree = "<group>"; };
+		E1C2CFDA300FC78200AD16C9 /* Privacy.html */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Privacy.html; sourceTree = "<group>"; };
+		E1C2CFDB300FC79300AD16C9 /* screenshoot.html */ = {isa = PBXFileReference; lastKnownFileType = text.html; path = screenshoot.html; sourceTree = "<group>"; };
+/* End PBXFileReference section */
+
+/* Begin PBXFileSystemSynchronizedRootGroup section */
+		E176AE223011EB9F001CDEBE /* Assets */ = {
+			isa = PBXFileSystemSynchronizedRootGroup;
+			path = Assets;
+			sourceTree = "<group>";
+		};
+/* End PBXFileSystemSynchronizedRootGroup section */
+
 /* Begin PBXGroup section */
 		E1C2CFCB300FBF7100AD16C9 = {
 			isa = PBXGroup;
 			children = (
+				E176AE223011EB9F001CDEBE /* Assets */,
+				E176AE213011EA93001CDEBE /* README.md */,
+				E176AE1C3011E8A5001CDEBE /* campagna.html */,
+				E1C2CFDB300FC79300AD16C9 /* screenshoot.html */,
+				E1C2CFDA300FC78200AD16C9 /* Privacy.html */,
+				E1C2CFD9300FC76B00AD16C9 /* Contatto.html */,
+				E1C2CFD2300FBF7700AD16C9 /* index.html */,
 			);
 			sourceTree = "<group>";
 		};
